@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @boboyor006
-
+- 👋 Hi, I’m boboyor
+- 😃  asalomu aleykum
+- 
