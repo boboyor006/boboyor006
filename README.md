@@ -1,3 +1,3 @@
-- 👋 Hi, I’m boboyor
-- 😃  asalomu aleykum
-- 
+- 👋 salom boboyor
+- 😃 web dasturchi 
+- 👨🏻‍💻 frontend dasturchi 
