@@ -1,3 +1,1 @@
-- 👋 salom boboyor
-- 😃 web dasturchi 
-- 👨🏻‍💻 frontend dasturchi 
+Hello, my name is Babayoor
