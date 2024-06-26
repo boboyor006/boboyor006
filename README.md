@@ -6,3 +6,7 @@ JavaScript
 TaypeScript 
 Bootstrap
 tailwind css
+css/scss 
+Next.js
+html
+
