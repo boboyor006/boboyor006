@@ -1,4 +1,4 @@
-Hello, my name is Boboyor
+Hello, my name is Temur 
 web dewloper 
 figma desenger 
 React.js 
