@@ -8,8 +8,6 @@ Me : Frontend teacher
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ![Anime Video GIF](https://media.giphy.com/media/v7OFL1RGk1m4qTNsb2/giphy.gif?cid=ecf05e47exvnx9kgxo1zwl10bw7d315fclg8s2uco813r1e3&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
 
