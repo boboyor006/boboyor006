@@ -9,7 +9,7 @@
 
 
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ef6f39b-907d-43ad-944c-1550b30148d2/deploy-status)](https://app.netlify.com/sites/polatovboboyor/deploys)
 
 
 
